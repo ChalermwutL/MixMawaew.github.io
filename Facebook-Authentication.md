@@ -18,14 +18,16 @@ Facebook Authentication
 
 4. เลือกช่องทางที่จะให้ทำการส่ง SMS หรือ จะให้ส่งการตรวจสอบผ่าน APP
 
+![index](/Image/FBA4.JPG)
+
 ถ้าเลือก SMS ตรวจสอบให้ถูกว่าเบอร์เราถูกต้องใช่ไหม
 
-![index](/Image/FBA4.JPG)
+![index](/Image/FBA5.JPG)
 
 5. จากนั้นจะมี sms มายังมือถือของเรา และให้เราเอาตัวเลขที่ได้จาก sms มาทำการกรอกในหน้า Facebook
 Advertisements
 
-![index](/Image/FBA5.JPG)
+![index](/Image/FBA6.JPG)
 
 6. ถ้าเรากรอกถูกต้อง โหมด Two-Factor Authentication ก็จะเป็น On
 
@@ -35,7 +37,7 @@ Advertisements
 
 โดยเเราสามารถทำการเปลี่ยนเบอร์มือถือได้นะ
 
-![index](/Image/FBA6.JPG)
+![index](/Image/FBA7.JPG)
 
 ทดสอบการใช้งาน Two-Factor Authentication ของ Facebook
 
