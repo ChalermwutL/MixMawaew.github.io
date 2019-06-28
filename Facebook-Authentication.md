@@ -10,32 +10,32 @@ Facebook Authentication
 
 2. เลือก Security and Login > เลือก  Use Two-Factor Authentication
 
-Image/FBA2.JPG
+![index](/Image/FBA2.JPG)
 
 3. คลิก แก้ไข ตรงข้อความการยืนยันตัวตนแบบสองชั้น
 
-Image/FBA3.JPG
+![index](/Image/FBA3.JPG)
 
 4. เลือกช่องทางที่จะให้ทำการส่ง SMS หรือ จะให้ส่งการตรวจสอบผ่าน APP
 
 ถ้าเลือก SMS ตรวจสอบให้ถูกว่าเบอร์เราถูกต้องใช่ไหม
 
-Image/FBA4.JPG
+![index](/Image/FBA4.JPG)
 
 5. จากนั้นจะมี sms มายังมือถือของเรา และให้เราเอาตัวเลขที่ได้จาก sms มาทำการกรอกในหน้า Facebook
 Advertisements
 
-Image/FBA5.JPG
+![index](/Image/FBA5.JPG)
 
 6. ถ้าเรากรอกถูกต้อง โหมด Two-Factor Authentication ก็จะเป็น On
 
-Image/FBA-on.JPG
+![index](/Image/FBA-on.JPG)
 
 7. ต้องขึ้นแบบนี้ถึงจะเป็นการลงทะเบียนในการเข้าใช้ Two-Factor Authentication สำเร็จ
 
 โดยเเราสามารถทำการเปลี่ยนเบอร์มือถือได้นะ
 
-Image/FBA6.JPG
+![index](/Image/FBA6.JPG)
 
 ทดสอบการใช้งาน Two-Factor Authentication ของ Facebook
 
@@ -43,7 +43,7 @@ Image/FBA6.JPG
 
 2. ในขั้นตอนนี้จะมี sms หรือ ให้เราทำการตรวจสอบผ่านแอฟ ในการกรอกตัวเลข จากเบอร์ sms ที่เราลงทะเบียนไว้ด้านบน ถ้าผ่านตรงนี้ไม่ได้ก็แปลว่า ไม่สามารถเข้าใช้งานเฟสบุ๊ค ต่อให้มีรหัสผ่านของเราก็เถอะ
 
-Image/FBA8.JPG
+![index](/Image/FBA8.JPG)
 
 ง่ายไหมครับ กับการทำ Two-Factor Authentication สำหรับแอฟเฟสบุ๊ค ซึ่งทางเราไม่ต้องกลัวอีกแล้วในการที่จะมีใครเข้ามาแฮคการใช้งานของ Facebook ยิ่งถ้าเรามีแอดมินเพจดังอีก คนจ้องที่จะทำการแฮคนั้นมีเยอะมากเลยนะ ถ้าเราทำการตั้ง Two-Factor Authentication เอาไว้ ผมรับรองได้ว่า ไม่มีให้แฮคได้อีกแน่นอน เพราะเป็นการตรวจสอบทั้ง 2 ทางกันเลยทีเดียว ทางแอดมินแนะนำให้ทำเลยนะครับ เพราะเป็นเหมือนรหัสสองชั้นในการเข้าใช้งานของ Facebook
 
