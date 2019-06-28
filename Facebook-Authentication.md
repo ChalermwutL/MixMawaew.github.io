@@ -6,7 +6,7 @@ Facebook Authentication
 
 1. คลิกไปที่ Settings
 
-Image/FBA1.JPG
+![index](/Image/FBA1.JPG)
 
 2. เลือก Security and Login > เลือก  Use Two-Factor Authentication
 
