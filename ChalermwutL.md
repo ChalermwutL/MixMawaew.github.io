@@ -1,10 +1,5 @@
-# MixMawaew.github.io
-There's something about Chalermwut
+Requirement ID : V5.3.4
 
-![index](/Image/download.jpg)
+Requirement Name : Verify that data selection or database queries (e.g. SQL, HQL, ORM, NoSQL) use parameterized queries, ORMs, entity frameworks, or are otherwise protected from database injection attacks. (C3)
 
-*  My Display Line is Mixkung.
-*  My job is Senior IT Compliance.
-*  My company location is Silom Road.
-*  My home location is King Kaew Road.
-
+OTG #1 : 
